@@ -1,0 +1,12 @@
+welcome to my unity Log Iacopo:
+nuovo attacco alla programmazione unity
+voglio solo riuscire a creare dei moduli per rpg-like ad esempio inventario e oggetto o combattimento , quest..
+per adesso come riscaldamento ho iniziato a fare dei grafici di funzionamento dell invetnario
+poi sono partito con il mio vecchio event system come base di tutto molto efficente ma un po ingombrante sul lungo per adesso me lo tengo..
+ho iniziato a riscaldarmi creando un oggetto prototipo lootabile solo da vicino premendo "e" che per adesso non scompare perche necessiterebbe di un secondo evento
+
+TODO spostare la creazione dell evento nel inventario senno con piu di un oggetto si bugga sicuro mentre l inventario e' uno solo 
+
+prossimo passo creazione della classe astratta Lootable e di una classe inventario totale 
+solo alla fine implemento l'interfaccia
+adesso aggiungo una repo per sicurezza e  ci inserisco li script e compagnia
